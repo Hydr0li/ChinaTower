@@ -1,11 +1,17 @@
 # Project Title
 
 Data Management and Data audit for the Electricity Cost in the entire year and previous years. 
+Created an EXE. document to help with it. 
 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+At the beginning, I developed a series Python code on checking whether the electricity cost is or not reasonable, such as looking for the abnormal elcetricity cost from the specific base station.
+Helped operation and maintenance department formulate a strategy on local tower station.
+I generated an Exe document to help auditors on checking the past 3 years ratio- nality of the electricity cost by using Python, the amount of yearly electricity
+cost of Xi’an City in 2021 is over 20 billion dollars;
+
+
 
 ## Getting Started
 
