@@ -6,64 +6,14 @@ Created an EXE. document to help with it.
 
 ## Description
 
-At the beginning, I developed a series Python code on checking whether the electricity cost is or not reasonable, such as looking for the abnormal elcetricity cost from the specific base station.
-Helped operation and maintenance department formulate a strategy on local tower station.
-I generated an Exe document to help auditors on checking the past 3 years ratio- nality of the electricity cost by using Python, the amount of yearly electricity
+- At the beginning, I developed a series Python code on checking whether the electricity cost is or not reasonable, such as looking for the abnormal elcetricity cost from the specific base station.
+- Helped operation and maintenance departments to formulate a strategy on local tower station.
+- Generated an .Exe document to help auditors on checking the past 3 years rationality of the electricity cost by using Python, the amount of yearly electricity
 cost of Xi’an City in 2021 is over 20 billion dollars;
 
 
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
-Contributors names and contact info
+Haizhou Li
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
